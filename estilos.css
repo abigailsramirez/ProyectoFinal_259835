@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body{
+    background-color: pink;
+}
+
+  .boton{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    border-radius: 6px;
+    border: 2px solid white;
+  }
+
+  .titulo{
+    text-align: center;
+    margin-top: 10px;
+    position: relative;
+    float: left;
+    width: 100%;
+  }
+  .boton:hover{
+    color: white;
+    background-color: black;
+  }
+
+.disney{
+    text-align: center;
+    margin-top: 30px;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.twitter{
+    text-align: center;
+    margin-top: 30px;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.cine{
+    
+    text-align: center;
+    margin-top: 40px;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.conciertos{
+    text-align: center;
+    margin-top: 30px;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+.calculadora{
+    text-align: center;
+    margin-top: 30px;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.tienda{
+    text-align: center;
+    margin-top: 30px;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
